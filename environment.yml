@@ -1,7 +1,6 @@
 name: egmn-dev
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python=3.10
   - scipy
@@ -12,13 +11,6 @@ dependencies:
   - pandas
   - sympy
   - ipympl
-  - jupyter
-  - jupyterlab
-  - jupyter-book
-  - jupytext
-  - notebook
-  - pre-commit
-  - ruff
   - nodejs
   - mystmd
   - estimagic
