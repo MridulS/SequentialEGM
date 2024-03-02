@@ -44,6 +44,8 @@ site:
 project:
   title: "EGMⁿ: The Sequential Endogenous Grid Method"
   short_title: EGMⁿ
+  github: https://github.com/MridulS/SequentialEGM
+  jupyter: 'binder'
   authors:
     - name: Alan Lujan
       corresponding: false
@@ -56,7 +58,6 @@ project:
   venue:
     title: REMARK
     url: https://github.com/econ-ark/REMARK
-  github: https://github.com/alanlujan91/SequentialEGM
   keywords:
     - endogenous grid method
     - stochastic dynamic programming
